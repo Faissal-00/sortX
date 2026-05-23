@@ -1,0 +1,8 @@
+path: C:\Users\hp zbook\Desktop\straiii\ai_model\tomato ripeness.v2i.yolov8
+
+train: train/images
+val: valid/images
+test: test/images
+
+nc: 4
+names: ['0', '1', '2', '3']
